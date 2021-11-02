@@ -1,0 +1,1 @@
+console.log('files in dir2 will be ignored')
