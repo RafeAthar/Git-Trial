@@ -1,0 +1,1 @@
+console.log('files in dir1 will be included while Commiting  to git')
